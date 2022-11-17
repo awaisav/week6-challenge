@@ -1,0 +1,40 @@
+.header {
+  background-color: #666666;
+  height: 100px;
+  text-align: center;
+  padding-top: 30px;
+  color: aliceblue;
+  font-size: 25px;
+}
+
+.main {
+  background-color: aquamarine;
+  height: 1000px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.box-container {
+  text-align: center;
+  padding: 30px;
+  display: flex;
+  justify-content: space-ev;
+  background-color: gray;
+}
+
+.random-meal-box0 {
+  height: 240px;
+  width: 200px;
+}
+.random-meal-box1 {
+  height: 240px;
+  width: 200px;
+}
+.random-meal-box2 {
+  height: 240px;
+  width: 200px;
+}
+.random-meal-box3 {
+  height: 240px;
+  width: 200px;
+}
